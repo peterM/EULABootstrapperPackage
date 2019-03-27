@@ -12,3 +12,8 @@ ClickOnce EULA Bootstrapper package
 
 
 For more info visit MS site: [https://docs.microsoft.com/en-us/visualstudio/deployment/creating-bootstrapper-packages?view=vs-2017](https://docs.microsoft.com/en-us/visualstudio/deployment/creating-bootstrapper-packages?view=vs-2017)
+
+
+
+Inspiration to create repository from: https://stackoverflow.com/questions/834071/clickonce-ask-for-a-license-agreement/55375658#55375658
+User: https://stackoverflow.com/users/48387/shay-erlichmen
