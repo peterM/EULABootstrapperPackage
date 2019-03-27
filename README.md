@@ -5,6 +5,7 @@ ClickOnce EULA Bootstrapper package
 
 1. Open `regedit`
 2. navigate to this path: `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\GenericBootstrapper`
+    example: `C:\Program Files (x86)\Microsoft SDKs\ClickOnce Bootstrapper\Packages`
 3. take path string from property `Path`
 
 4. copy package to path from `windows registry` to `packages` subfolder
