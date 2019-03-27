@@ -1,0 +1,1 @@
+Copy this folder `EULApackage` to `Bootstrapper packages`
